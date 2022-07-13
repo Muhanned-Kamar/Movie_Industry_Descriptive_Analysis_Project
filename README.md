@@ -5,4 +5,4 @@ In this project we will be going though all the data available for analysis in t
 
 We will explore, clean, visualize, and talk about the findings we will see in the analysis.
 
-Click on Movie_Project_Correlation file to see the notebook or you can view it on my kaggle account thourh this link
+Click on Movie_Project_Correlation file to see the notebook or you can view it on my kaggle account thourh this [link](https://www.kaggle.com/code/muhannedkamareldawla/movie-industry-descriptive-analysis).
